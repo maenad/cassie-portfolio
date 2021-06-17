@@ -1,0 +1,77 @@
+@import url("https://use.typekit.net/mjz8dkb.css");
+
+/*Colors*/
+$desert: #3D3D3D;
+$bone: #FFFCF4;
+$alabaster: #F7F0E2;
+/*--*/
+$rosy-brown: #AA7A7A;
+$grey: #908A89;
+$black: #000000;
+
+
+body {
+    font-size: 16px;
+    font-family: commuters-sans, sans-serif;
+    background-color: $bone;
+
+}
+
+h1 {
+font-size: 121px;
+}
+
+h2 {
+font-size: 81px;
+}
+
+h3 {
+font-size: 54px;
+}
+
+h4 {
+font-size: 36px;
+}
+
+h5 {
+font-size: 24px;
+}
+
+p {
+    font-size: 16px;
+}
+
+/*
+ Commuters Sans Italic
+
+    font-family: commuters-sans, sans-serif;
+
+    font-weight: 400;
+
+    font-style: italic;
+
+Commuters Sans Regular
+
+    font-family: commuters-sans, sans-serif;
+
+    font-weight: 400;
+
+    font-style: normal;
+
+Commuters Sans Bold Italic
+
+    font-family: commuters-sans, sans-serif;
+
+    font-weight: 700;
+
+    font-style: italic;
+
+Commuters Sans Bold
+
+    font-family: commuters-sans, sans-serif;
+
+    font-weight: 700;
+
+    font-style: normal;
+
+*/
